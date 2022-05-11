@@ -129,33 +129,33 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-![git logo]("kitty1.png")
+![git logo]("kitty1.PNG")
 
 
 ### ii) Image Scaling
-![git logo](kitty2.png)
+![git logo](kitty2.PNG)
 
 
 
 ### iii)Image shearing
-![git logo]("kitty3.png")
+![git logo]("kitty3.PNG")
 
 
 ### iv)Image Reflection
-![git logo]("itzy1.png")
-![git logo]("itzy2.png")
+![git logo]("itzy1.PNG")
+![git logo]("itzy2.PNG")
 
 
 
 
 ### v)Image Rotation
-![git logo]("kitty5.png")
+![git logo]("kitty5.PNG")
 
 
 
 
 ### vi)Image Cropping
-![git logo]("kitty6.png")
+![git logo]("kitty6.PNG")
 
 
 
