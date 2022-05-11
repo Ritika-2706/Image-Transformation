@@ -133,7 +133,7 @@ plt.show()
 
 
 ### ii) Image Scaling
-![git logo](kitty2.png)
+![git logo](kity2.png)
 
 
 
