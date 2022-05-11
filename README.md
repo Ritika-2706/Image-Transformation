@@ -155,7 +155,7 @@ plt.show()
 
 
 ### vi)Image Cropping
-![git logo](kitty6.png)
+![git logo](kitty4.png)
 
 
 
